@@ -1,0 +1,11 @@
+{
+    "cred_data" :{
+        "username" : "MT9998",
+        "password" : "8eef2006"
+    },
+    "test_data": {
+        "application_name": [
+            "Grind Log"
+        ]
+    }
+}
